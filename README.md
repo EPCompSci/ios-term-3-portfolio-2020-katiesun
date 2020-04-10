@@ -15,5 +15,5 @@ In the apps I've worked on thus far, I've experimented with timer functions, UI 
 ### [Cypher Cipher](https://github.com/katiesun/Cypher-Cipher)
 Cypher Cipher is the app I am currently working on. It allows users to encrypt and decrypt messages with ciphers like Caesar, Monoalphabetic, Affine, Hill, etc. As the app relies heavily on number theory, this app is challenging for its math-intensive programming. Additionally, there are many different options users have to encode their messages, so I played around with picker views and text fields a lot. My main goal for Cypher Cipher is to provide a centralized application for future Science Olympiad students in compiling cryptography questions and exams. 
 
-### Pomodoro Timer 
+### [Pomodoro Timer](https://github.com/katiesun/Pomodoro-Timer) 
 Pomodoro Timer is based off of the famous Pomodoro studying technique. The app is minimal yet functional, as to best help students in focused studying. 
