@@ -12,7 +12,7 @@ In the apps I've worked on thus far, I've experimented with timer functions, UI 
 * R/Rstudio: Intermediate (began 2019)
 
 ## Apps
-### [Cypher Cipher] (https://github.com/katiesun/Cypher-Cipher)
+### [Cypher Cipher](https://github.com/katiesun/Cypher-Cipher)
 Cypher Cipher is the app I am currently working on. It allows users to encrypt and decrypt messages with ciphers like Caesar, Monoalphabetic, Affine, Hill, etc. As the app relies heavily on number theory, this app is challenging for its math-intensive programming. Additionally, there are many different options users have to encode their messages, so I played around with picker views and text fields a lot. My main goal for Cypher Cipher is to provide a centralized application for future Science Olympiad students in compiling cryptography questions and exams. 
 
 ### Pomodoro Timer 
